@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Navneet2212
+- 👋 Hi, I’m Navneet Shukla
 - 👀 I’m interested in exploaring new and amazing things which take my interest and also re-creating them is a must for me too
 - 🌱 I’m currently learning python and java.
 - 💞️ I’m looking to collaborate on something which is benefitial for the whole world
